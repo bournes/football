@@ -1,0 +1,100 @@
+{"frames": {
+
+"logo_ball.png":
+{
+	"frame": {"x":307,"y":830,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+"logo_ball_shadow.png":
+{
+	"frame": {"x":864,"y":881,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+"logo_ball_winter.png":
+{
+	"frame": {"x":864,"y":1012,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+"logo_character_1.png":
+{
+	"frame": {"x":2,"y":1241,"w":248,"h":213},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":248,"h":213},
+	"sourceSize": {"w":248,"h":213}
+},
+"logo_character_2.png":
+{
+	"frame": {"x":2,"y":2,"w":571,"h":399},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":571,"h":399},
+	"sourceSize": {"w":571,"h":399}
+},
+"logo_character_3.png":
+{
+	"frame": {"x":576,"y":2,"w":416,"h":426},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":416,"h":426},
+	"sourceSize": {"w":416,"h":426}
+},
+"logo_character_4.png":
+{
+	"frame": {"x":2,"y":404,"w":489,"h":423},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":489,"h":423},
+	"sourceSize": {"w":489,"h":423}
+},
+"logo_character_5.png":
+{
+	"frame": {"x":612,"y":881,"w":249,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":249,"h":400},
+	"sourceSize": {"w":249,"h":400}
+},
+"logo_character_6.png":
+{
+	"frame": {"x":2,"y":830,"w":302,"h":408},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":302,"h":408},
+	"sourceSize": {"w":302,"h":408}
+},
+"logo_character_6_winter.png":
+{
+	"frame": {"x":307,"y":961,"w":302,"h":408},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":302,"h":408},
+	"sourceSize": {"w":302,"h":408}
+},
+"logo_character_7.png":
+{
+	"frame": {"x":494,"y":431,"w":436,"h":447},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":436,"h":447},
+	"sourceSize": {"w":436,"h":447}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "home_logo.png",
+	"format": "RGBA8888",
+	"size": {"w":994,"h":1456},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:351f9e54420cf4e305511402181b0147:c863e21c6e8adefc375a23cc35e7bff0:80b0790fb2b74313479a51b8e4508091$"
+}
+}
